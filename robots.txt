@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://orbitwebtools.github.io/photo-compress-50-to-100-kb/sitemap.xml
